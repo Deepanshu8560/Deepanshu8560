@@ -1,40 +1,55 @@
-# Hi, I'm Deepanshu Gupta 👋
+<h1 align="center">Hi 👋, I'm Deepanshu</h1>
+<h3 align="center">A passionate developer and tech enthusiast from India</h3>
 
-**Developer | Problem Solver | Tech Enthusiast**
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=Deepanshu8560&label=Profile%20views&color=0e75b6&style=flat" alt="Deepanshu8560" />
+</p>
+
+<p align="center">
+  <a href="https://twitter.com/your_twitter_handle" target="blank"><img src="https://img.shields.io/twitter/follow/your_twitter_handle?logo=twitter&style=for-the-badge" alt="your_twitter_handle" /></a>
+</p>
+
+- 🌱 I’m currently learning **Frontend Development, Cloud Computing, AI/ML**
+
+- 👯 I’m looking to collaborate on **Open Source Projects**
+
+- 🤝 I’m looking for help with **DevOps and scalable backend systems**
+
+- 💬 Ask me about **Python, JavaScript, React, Node.js, and Cloud Technologies**
+
+- 📫 How to reach me **deepanshu.your@email.com**
+
+- ⚡ Fun fact **I love solving puzzles and exploring new technologies**
+
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://linkedin.com/in/guptadeepanshu1" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="your-linkedin" height="30" width="40" /></a>
+
+<a href="mailto:deepanshu.your@email.com" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/gmail.svg" alt="gmail" height="30" width="40" /></a>
+</p>
+
+<h3 align="left">Languages and Tools:</h3>
+<p align="left">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" alt="git" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/aws/aws-original.svg" alt="aws" width="40" height="40"/>
+</p>
+
+<h3 align="left">GitHub Stats:</h3>
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Deepanshu8560&show_icons=true&locale=en" alt="Deepanshu8560" />
+</p>
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Deepanshu8560" alt="Deepanshu8560" />
+</p>
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Deepanshu8560&show_icons=true&locale=en&layout=compact" alt="Deepanshu8560" />
+</p>
 
 ---
 
-### 🚀 About Me
-
-I'm a passionate developer skilled in building web and software solutions using modern technologies. I enjoy tackling complex problems and transforming ideas into real-world applications.
-
----
-
-### 🛠️ Skills
-
-- **Frontend:** HTML, CSS, JavaScript, React
-- **Backend & Programming:** Java, Python, SQL
-
----
-
-### 🌟 Favorite Projects
-
-- **Financebot:** Automate your financial tasks and insights.
-- **House Price Prediction System:** Predict house prices using data science and machine learning.
-- **Movie Recommender System:** Personalized movie recommendations powered by smart algorithms.
-
----
-
-### 📫 Connect with Me
-
-- [LinkedIn](https://linkedin.com/in/guptadeepanshu1)
-
----
-
-### ⚡ Fun Fact
-
-I love exploring new technologies, building innovative solutions, and sharing knowledge with the community!
-
----
-
-![Deepanshu's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Deepanshu8560&show_icons=true&theme=dracula)
+> If you like my work, consider following me! 🚀
