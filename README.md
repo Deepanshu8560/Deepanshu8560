@@ -1,6 +1,14 @@
 <h1 align="center">Hi 👋, I'm Deepanshu</h1>
 <h3 align="center">A passionate developer and tech enthusiast from India</h3>
 
+<h3 align="left">GitHub Stats:</h3>
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Deepanshu8560&show_icons=true&locale=en" alt="Deepanshu8560" />
+</p>
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Deepanshu8560" alt="Deepanshu8560" />
+</p>
+
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=Deepanshu8560&label=Profile%20views&color=0e75b6&style=flat" alt="Deepanshu8560" />
 </p>
@@ -39,13 +47,7 @@
   <img src="https://github.com/aws-samples/aws-icons-for-architecture-diagrams/raw/main/dist/Res_AWS-Cloud.svg" alt="AWS Logo" width="50" />
 </p>
 
-<h3 align="left">GitHub Stats:</h3>
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Deepanshu8560&show_icons=true&locale=en" alt="Deepanshu8560" />
-</p>
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Deepanshu8560" alt="Deepanshu8560" />
-</p>
+
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Deepanshu8560&show_icons=true&locale=en&layout=compact" alt="Deepanshu8560" />
 </p>
