@@ -1,16 +1,40 @@
-## Hi there 👋
+# Hi, I'm Deepanshu Gupta 👋
 
-<!--
-**Deepanshu8560/Deepanshu8560** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**Developer | Problem Solver | Tech Enthusiast**
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🚀 About Me
+
+I'm a passionate developer skilled in building web and software solutions using modern technologies. I enjoy tackling complex problems and transforming ideas into real-world applications.
+
+---
+
+### 🛠️ Skills
+
+- **Frontend:** HTML, CSS, JavaScript, React
+- **Backend & Programming:** Java, Python, SQL
+
+---
+
+### 🌟 Favorite Projects
+
+- **Financebot:** Automate your financial tasks and insights.
+- **House Price Prediction System:** Predict house prices using data science and machine learning.
+- **Movie Recommender System:** Personalized movie recommendations powered by smart algorithms.
+
+---
+
+### 📫 Connect with Me
+
+- [LinkedIn](https://linkedin.com/in/guptadeepanshu1)
+
+---
+
+### ⚡ Fun Fact
+
+I love exploring new technologies, building innovative solutions, and sharing knowledge with the community!
+
+---
+
+![Deepanshu's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Deepanshu8560&show_icons=true&theme=dracula)
