@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Deepanshu</h1>
 <h3 align="center">A passionate developer and tech enthusiast from India</h3>
 
-<h3 align="left">GitHub Stats:</h3>
+<h3 align="center">GitHub Stats:</h3>
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Deepanshu8560&show_icons=true&locale=en" alt="Deepanshu8560" />
 </p>
