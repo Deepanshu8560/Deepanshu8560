@@ -20,7 +20,7 @@
 
 - 💬 Ask me about **Python, JavaScript, React, Node.js, and Cloud Technologies**
 
-- 📫 How to reach me **deepanshu.your@email.com**
+- 📫 How to reach me **deepanshu.gupta.dev@email.com**
 
 - ⚡ Fun fact **I love solving puzzles and exploring new technologies**
 
