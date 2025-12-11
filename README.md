@@ -1,6 +1,6 @@
-# Hi there, I'm Deepanshu 👋 🚀
+# Hi there, I'm Deepanshu Gupta👋 🚀
 
-Welcome to my corner of the internet — where curiosity meets code and ideas turn into impact. I'm Deepanshu8560: builder, problem-solver, and perpetual learner. I design elegant solutions, ship meaningful projects, and love turning complex problems into delightful user experiences. 🔧✨
+Welcome to my corner of the internet — where curiosity meets code and ideas turn into impact. I'm Deepanshu gupta builder, problem-solver, and perpetual learner. I design elegant solutions, ship meaningful projects, and love turning complex problems into delightful user experiences. 🔧✨
 
 ---
 
