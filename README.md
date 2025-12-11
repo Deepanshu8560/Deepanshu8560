@@ -1,52 +1,103 @@
-<h1 align="center">Hi 👋, I'm Deepanshu</h1>
-<h3 align="center">A passionate developer and tech enthusiast from India</h3>
+# Hi there, I'm Deepanshu 👋 🚀
 
-<h3 align="center">GitHub Stats:</h3>
+Welcome to my corner of the internet — where curiosity meets code and ideas turn into impact. I'm Deepanshu8560: builder, problem-solver, and perpetual learner. I design elegant solutions, ship meaningful projects, and love turning complex problems into delightful user experiences. 🔧✨
+
+---
+
+<!-- HERO / BADGES -->
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Deepanshu8560&show_icons=true&locale=en" alt="Deepanshu8560" />
+  <img src="https://media.giphy.com/media/3o7aD2saalBwwftBIY/giphy.gif" alt="hello" width="230"/>
 </p>
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Deepanshu8560" alt="Deepanshu8560" />
-</p>
-
-
-
-
-- 🌱 I’m currently learning **Frontend Development, Cloud Computing, AI/ML**
-
-- 👯 I’m looking to collaborate on **Open Source Projects**
-
-- 🤝 I’m looking for help with **DevOps and scalable backend systems**
-
-- 💬 Ask me about **Python, JavaScript, React, Node.js, and Cloud Technologies**
-
-- 📫 How to reach me **deepanshu.gupta.dev@email.com**
-
-- ⚡ Fun fact **I love solving puzzles and exploring new technologies**
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/guptadeepanshu1" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="your-linkedin" height="30" width="40" /></a>
-
-<a href="mailto:deepanshu.gupta.dev@email.com" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/gmail.svg" alt="gmail" height="30" width="40" /></a>
-</p>
-
-<h3 align="left">Languages and Tools:</h3>
-<p align="left">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" alt="git" width="40" height="40"/>
-  
-</p>
-
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Deepanshu8560&show_icons=true&locale=en&layout=compact" alt="Deepanshu8560" />
+  <a href="https://github.com/Deepanshu8560"><img alt="GitHub followers" src="https://img.shields.io/github/followers/Deepanshu8560?label=Follow&style=social"></a>
+  <a href="https://github.com/Deepanshu8560"><img alt="Profile views" src="https://komarev.com/ghpvc/?username=Deepanshu8560&color=brightgreen"></a>
+  <img alt="Top Language" src="https://img.shields.io/badge/Top%20Language-Python-blueviolet">
+  <img alt="Status" src="https://img.shields.io/badge/Status-Always%20Learning-brightgreen">
 </p>
 
 ---
 
-> If you like my work, consider following me! 🚀
+## ⚡ Quick Snapshot
+- 🔭 Currently building: something awesome that helps people ship faster.
+- 🌱 Learning: advanced system design, ML ops, and a little dark arts of scalable infra.
+- 👯 Open to: collaboration on open-source projects, mentorship, and interesting startup ideas.
+- 💬 Ask me about: backend systems, APIs, automation, and clean architecture.
+- 🧠 Fun fact: I sketch architecture diagrams more than I sketch on paper — purely digital art.
+
+---
+
+## 🧰 Tech & Tools
+Here are the weapons I usually pick up to solve problems:
+
+- Languages: Python · JavaScript · TypeScript · Go
+- Frameworks: FastAPI · Node.js · React
+- Infrastructure: Docker · Kubernetes · Terraform · AWS
+- Datastores: PostgreSQL · Redis · MongoDB
+- CI/CD & Testing: GitHub Actions · GitLab CI · PyTest · Jest
+- Others: Git · REST · GraphQL 
+
+(If you want a simple badge list for your README, I can generate one with exact icons and colors.)
+
+---
+
+
+
+---
+
+## 🔭 Featured Repositories
+- [project-one](https://github.com/Deepanshu8560/project-one) — A short pitch: lightning-fast CLI to boost dev velocity.
+- [project-two](https://github.com/Deepanshu8560/project-two) — A microservice-based app that demonstrates resilient patterns.
+- [project-three](https://github.com/Deepanshu8560/project-three) — Tools & templates for starting secure web apps.
+
+(If you tell me which repositories you want featured, I can add badges and short descriptions for each.)
+
+---
+
+## 📈 GitHub Stats
+
+<p float="left">
+  <img src="https://github-readme-stats.vercel.app/api?username=Deepanshu8560&show_icons=true&theme=radical" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Deepanshu8560&layout=compact&theme=radical" width="48%" />
+</p>
+
+---
+
+## 💬 How I Work
+- I prefer small, iterative steps — ship often, learn fast.
+- Tests and automation are non-negotiable.
+- I document intent, not just the code — context saves time.
+- Empathy first: teammates > ego.
+
+---
+
+## 🌱 How to reach me
+- GitHub: https://github.com/Deepanshu8560
+- Email: deepanshu.gupta.dev@gmail.com
+- LinkedIn: https://www.linkedin.com/in/deepanshuguptadev/
+
+
+---
+
+## 💡 Want to collaborate?
+- Open source contributions: I'm always open to issues or ideas that help people build faster.
+- Mentorship: Happy to mentor students and early-career devs — book time or message.
+- Freelance / Contract: Available for short-term projects that align with my focus.
+
+If you liked something here, leave a ⭐ on the repo and say hi! I usually respond within a few days.
+
+---
+
+## 🎯 Final note — a tiny manifesto
+Code is my craft; clarity is my compass. I build with the future in mind and the human in my heart. If what I build makes someone's day a little easier — then it's worth the late nights.
+
+Let's create something that matters. 🚀
+
+---
+
+If you'd like, I can:
+- Personalize the README with your real projects, links, and emojis.
+- Generate a shorter "business-card" version.
+- Add animated SVGs and badges tuned to your exact stack.
+
+Tell me which repositories to highlight or give me 3 sentences about yourself and I'll tailor this README to sound exactly like you.
