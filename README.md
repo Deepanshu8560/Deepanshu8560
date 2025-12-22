@@ -41,13 +41,6 @@ Here are the weapons I usually pick up to solve problems:
 
 ---
 
-
-
----
-
-
----
-
 ## 📈 GitHub Stats
 
 <p float="left">
