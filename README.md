@@ -37,8 +37,6 @@ Here are the weapons I usually pick up to solve problems:
 - CI/CD & Testing: GitHub Actions · GitLab CI · PyTest · Jest
 - Others: Git · REST · GraphQL 
 
-(If you want a simple badge list for your README, I can generate one with exact icons and colors.)
-
 ---
 
 ## 📈 GitHub Stats
