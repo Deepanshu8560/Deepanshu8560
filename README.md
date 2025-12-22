@@ -45,12 +45,6 @@ Here are the weapons I usually pick up to solve problems:
 
 ---
 
-## 🔭 Featured Repositories
-- [project-one](https://github.com/Deepanshu8560/project-one) — A short pitch: lightning-fast CLI to boost dev velocity.
-- [project-two](https://github.com/Deepanshu8560/project-two) — A microservice-based app that demonstrates resilient patterns.
-- [project-three](https://github.com/Deepanshu8560/project-three) — Tools & templates for starting secure web apps.
-
-(If you tell me which repositories you want featured, I can add badges and short descriptions for each.)
 
 ---
 
