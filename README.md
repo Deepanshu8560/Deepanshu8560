@@ -84,5 +84,3 @@ If you'd like, I can:
 - Personalize the README with your real projects, links, and emojis.
 - Generate a shorter "business-card" version.
 - Add animated SVGs and badges tuned to your exact stack.
-
-Tell me which repositories to highlight or give me 3 sentences about yourself and I'll tailor this README to sound exactly like you.
