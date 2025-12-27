@@ -12,7 +12,7 @@ Welcome to my corner of the internet — where curiosity meets code and ideas tu
 <p align="center">
   <a href="https://github.com/Deepanshu8560"><img alt="GitHub followers" src="https://img.shields.io/github/followers/Deepanshu8560?label=Follow&style=social"></a>
   <a href="https://github.com/Deepanshu8560"><img alt="Profile views" src="https://komarev.com/ghpvc/?username=Deepanshu8560&color=brightgreen"></a>
-  <img alt="Top Language" src="https://img.shields.io/badge/Top%20Language-Python-blueviolet">
+  <img alt="Top Language" src="https://img.shields.io/badge/Top%20Language-JavaScript-blueviolet">
   <img alt="Status" src="https://img.shields.io/badge/Status-Always%20Learning-brightgreen">
 </p>
 
