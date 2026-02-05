@@ -42,10 +42,15 @@ Here are the weapons I usually pick up to solve problems:
 ## 📈 GitHub Stats
 
 <p float="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=Deepanshu8560&show_icons=true&theme=radical" width="48%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Deepanshu8560&layout=compact&theme=radical" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Deepanshu8560&show_icons=true&theme=radical" alt="GitHub stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Deepanshu8560&layout=compact&theme=radical" alt="Top Languages" />
 </p>
 
+<!-- Fallback badges in case the above svgs are blocked -->
+<p>
+  <img src="https://img.shields.io/github/followers/Deepanshu8560?label=Follow&style=social" alt="Follow on GitHub" />
+  <img src="https://img.shields.io/badge/Top%20Language-JavaScript-blueviolet" alt="Top Language" />
+</p>
 ---
 
 ## 💬 How I Work
