@@ -41,16 +41,18 @@ Here are the weapons I usually pick up to solve problems:
 
 ## 📈 GitHub Stats
 
-<p float="left">
+<!-- Official service (may be rate-limited) -->
+<div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Deepanshu8560&show_icons=true&theme=radical" alt="GitHub stats" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Deepanshu8560&layout=compact&theme=radical" alt="Top Languages" />
-</p>
+</div>
 
 <!-- Fallback badges in case the above svgs are blocked -->
-<p>
+<p align="center">
   <img src="https://img.shields.io/github/followers/Deepanshu8560?label=Follow&style=social" alt="Follow on GitHub" />
   <img src="https://img.shields.io/badge/Top%20Language-JavaScript-blueviolet" alt="Top Language" />
 </p>
+
 ---
 
 ## 💬 How I Work
@@ -66,26 +68,4 @@ Here are the weapons I usually pick up to solve problems:
 - Email: deepanshu.gupta.dev@gmail.com
 - LinkedIn: https://www.linkedin.com/in/deepanshuguptadev/
 
-
----
-
-## 💡 Want to collaborate?
-- Open source contributions: I'm always open to issues or ideas that help people build faster.
-- Mentorship: Happy to mentor students and early-career devs — book time or message.
-- Freelance / Contract: Available for short-term projects that align with my focus.
-
-If you liked something here, leave a ⭐ on the repo and say hi! I usually respond within a few days.
-
----
-
-## 🎯 Final note — a tiny manifesto
-Code is my craft; clarity is my compass. I build with the future in mind and the human in my heart. If what I build makes someone's day a little easier — then it's worth the late nights.
-
-Let's create something that matters. 🚀
-
----
-
-If you'd like, I can:
-- Personalize the README with your real projects, links, and emojis.
-- Generate a shorter "business-card" version.
-- Add animated SVGs and badges tuned to your exact stack.
+...
