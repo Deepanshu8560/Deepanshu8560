@@ -41,18 +41,25 @@ Here are the weapons I usually pick up to solve problems:
 
 ## 📈 GitHub Stats
 
-<!-- Official service (may be rate-limited) -->
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Deepanshu8560&show_icons=true&theme=radical" alt="GitHub stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Deepanshu8560&layout=compact&theme=radical" alt="Top Languages" />
+  
+  <!-- Main Stats Card -->
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Deepanshu8560&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&custom_title=Deepanshu's%20GitHub%20Stats"/>
+  
+  <!-- Top Languages Card -->
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Deepanshu8560&layout=compact&langs_count=8&theme=tokyonight&hide_border=true"/>
+  
 </div>
 
-<!-- Fallback badges in case the above svgs are blocked -->
-<p align="center">
-  <img src="https://img.shields.io/github/followers/Deepanshu8560?label=Follow&style=social" alt="Follow on GitHub" />
-  <img src="https://img.shields.io/badge/Top%20Language-JavaScript-blueviolet" alt="Top Language" />
-</p>
+<!-- Streak Stats -->
+<div align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Deepanshu8560&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
+</div>
 
+<!-- Activity Graph (Optional) -->
+<div align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Deepanshu8560&theme=tokyo-night&hide_border=true&area=true" />
+</div>
 ---
 
 ## 💬 How I Work
