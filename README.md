@@ -30,9 +30,9 @@ Welcome to my corner of the internet — where curiosity meets code and ideas tu
 ## 🧰 Tech & Tools
 Here are the weapons I usually pick up to solve problems:
 
-- Languages: Python · JavaScript · TypeScript · Go
+- Languages: Python · JavaScript · TypeScript
 - Frameworks: FastAPI · Node.js · React
-- Infrastructure: Docker · Kubernetes · Terraform · AWS
+- Infrastructure: Docker · Kubernetes · AWS
 - Datastores: PostgreSQL · Redis · MongoDB
 - CI/CD & Testing: GitHub Actions · GitLab CI · PyTest · Jest
 - Others: Git · REST · GraphQL 
