@@ -1,6 +1,6 @@
 # Hi there, I'm Deepanshu Gupta👋 🚀
 
-Welcome to my corner of the internet — where curiosity meets code and ideas turn into impact. I'm Deepanshu gupta builder, problem-solver, and perpetual learner. I design elegant solutions, ship meaningful projects, and love turning complex problems into delightful user experiences. 🔧✨
+Welcome to my corner of the internet - where curiosity meets code and ideas turn into impact. I'm Deepanshu gupta builder, problem-solver, and perpetual learner. I design elegant solutions, ship meaningful projects, and love turning complex problems into delightful user experiences. 🔧✨
 
 ---
 
@@ -23,7 +23,7 @@ Welcome to my corner of the internet — where curiosity meets code and ideas tu
 - 🌱 Learning: advanced system design, ML ops, and a little dark arts of scalable infra.
 - 👯 Open to: collaboration on open-source projects, mentorship, and interesting startup ideas.
 - 💬 Ask me about: backend systems, APIs, automation, and clean architecture.
-- 🧠 Fun fact: I sketch architecture diagrams more than I sketch on paper — purely digital art.
+- 🧠 Fun fact: I sketch architecture diagrams more than I sketch on paper - purely digital art.
 
 ---
 
@@ -63,9 +63,9 @@ Here are the weapons I usually pick up to solve problems:
 ---
 
 ## 💬 How I Work
-- I prefer small, iterative steps — ship often, learn fast.
+- I prefer small, iterative steps - ship often, learn fast.
 - Tests and automation are non-negotiable.
-- I document intent, not just the code — context saves time.
+- I document intent, not just the code - context saves time.
 - Empathy first: teammates > ego.
 
 ---
